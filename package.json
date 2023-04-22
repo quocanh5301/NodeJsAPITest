@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "test_node_js",
+  "version": "1.0.0",
+  "description": "1st_node_js",
+  "main": "main.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "nodemon --inspect main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quocanh5301/NodeJsAPITest.git"
+  },
+  "keywords": [
+    "first",
+    "nodejs",
+    "test",
+    "api"
+  ],
+  "author": "quocanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quocanh5301/NodeJsAPITest/issues"
+  },
+  "homepage": "https://github.com/quocanh5301/NodeJsAPITest#readme"
+}
